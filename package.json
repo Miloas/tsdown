@@ -1,5 +1,5 @@
 {
-  "name": "tsdown",
+  "name": "@miloas/tsdown",
   "version": "0.13.0",
   "packageManager": "pnpm@10.13.1",
   "description": "The Elegant Bundler for Libraries",

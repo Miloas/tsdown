@@ -1,5 +1,5 @@
 {
-  "name": "@sxzz/tsdown",
+  "name": "@miloas/tsdown",
   "version": "0.13.0",
   "exports": "./src/index.ts",
   "publish": {
